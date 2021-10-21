@@ -1,5 +1,7 @@
 # Heart_Disease_Prediction_with_Python
 
+Outcome:
+
 Result of the first model:
 Model is saying 75% Heart Disease patients are Male.
 
